@@ -1,2 +1,2 @@
-# onurs-movies
-A simple app for searching IMDB movies. Uses axios to get data from OMDb Api with built-in express server and ejs.
+# Onur's Movies
+A simple app for searching IMDB movies. Uses axios to get data from OMDb Api with built-in Express server and EJS.
